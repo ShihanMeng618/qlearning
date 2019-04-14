@@ -1,4 +1,4 @@
-# qlearning
+﻿# qlearning
 
 In a incomplete information game, a big challenge is to find the best way of exploiting available information for optimal decision making of agents. This project implements repeated Cournot competition of the generators in a day-ahead electricity market using reinforcement learning.
 
